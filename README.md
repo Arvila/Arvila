@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arvila
-- 👀 I’m into music and sci-fi.
-- 🌱 I’m currently learning how to use GitHub and Notion.
+- 🎶 I’m into music and sci-fi.
+- 📚 I’m currently learning how to use GitHub and Notion.
 
 <!---
 Arvila/Arvila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
